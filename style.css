@@ -1,0 +1,111 @@
+body{
+    background-color: darkslategrey;
+}
+
+#section{
+    text-align: center;
+}
+
+h1{
+    font-family: 'Bangers', cursive;
+    font-size: 4rem;
+    color: #1b262c;
+    margin: 4rem  auto 0rem auto;
+}
+
+h3{
+    font-family: 'Lexend Giga', sans-serif;
+    font-size: 1rem;
+    padding: 0px;
+    color: aquamarine;
+}
+
+#row{
+    margin-top: 10rem;
+    text-align: center;
+}
+
+
+
+.D{
+    background-image: url(imgs/dh.jpg);
+    background-size: 100%;
+}
+
+
+.S{
+    background-image: url(imgs/sa.jpg);
+    background-size: 100%;
+}
+
+.M{
+    background-image: url(imgs/mir.jpg);
+    background-size: 100%;
+}
+
+.H{
+    background-image: url(imgs/ha.jpg);
+    background-size: 100%;
+}
+
+.A{
+    background-image: url(imgs/an.jpg);
+    background-size: 100%;
+}
+
+.N{
+    background-image: url(imgs/na.jpg);
+    background-size: 100%;
+}
+
+.MO{
+    background-image: url(imgs/mo.jpg);
+    background-size: 100%;
+}
+
+.DE{
+    background-image: url(imgs/de.jpg);
+    background-size: 100%;
+}
+
+.R{
+    background-image: url(imgs/r.jpg);
+    background-size: 100%;
+}
+
+.P{
+    background-image: url(imgs/p.png);
+    background-size: 100%;
+}
+
+
+.btn{
+    outline: none;
+    border: 10px solid #404B69;
+    font-size: 0px;    
+    line-height: 2;
+    font-weight: 900;   
+    border-radius: 100%;
+    display: inline-block;
+    width: 160px;
+    height: 160px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+  
+}
+
+button:hover{
+    background-color:grey;
+    opacity: 0.3;
+}
+
+
+footer{
+    color: aquamarine;
+    text-align: center;
+    margin-top: 8rem;
+    font-family: 'Lexend Giga', sans-serif;
+    font-size: 0.8rem;
+    margin-bottom: 3rem;
+}
